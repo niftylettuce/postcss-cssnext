@@ -23,6 +23,7 @@
   "dependencies": {
     "autoprefixer": "^7.1.1",
     "caniuse-api": "^2.0.0",
+    "caniuse-lite": "^1.0.30000784",
     "chalk": "^2.0.1",
     "pixrem": "^4.0.0",
     "pleeease-filters": "^4.0.0",
@@ -52,9 +53,6 @@
     "postcss-replace-overflow-wrap": "^2.0.0",
     "postcss-selector-matches": "^3.0.1",
     "postcss-selector-not": "^3.0.1"
-  },
-  "peerDependencies": {
-    "caniuse-lite": ">= 1"
   },
   "devDependencies": {
     "babel-cli": "^6.6.5",
